@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emily-nelson
 - 👀 I'm an aspiring Software Developer. Here you will find the projects I've been working on!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, HTML and CSS.
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/emily-nelson-24657317a/
 
 <!---
